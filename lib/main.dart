@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter buoi 3 Home Page'),
+      home: const MyHomePage(title: 'Flutter buoi 3 Home Page - ok be'),
     );
   }
 }
